@@ -1,0 +1,22 @@
+.form-card {
+    box-shadow: 1px 3px 15px 5px rgb(26 33 52 / 44%);
+    border-radius: 8px;
+    margin: auto;
+    width: 40%;
+    border: 1px solid #69696933;
+    padding: 10px;
+    height: auto;
+    padding: 30px;
+  }
+  
+  .title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 5px;
+    margin-bottom: 30px;
+  }
+  
+  th {
+    white-space: nowrap;
+  }
